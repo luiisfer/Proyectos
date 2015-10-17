@@ -1,0 +1,20 @@
+c:\users\hector cardona\documents\visual studio 2013\Projects\Modulo Seguridad\Modulo Seguridad\bin\Debug\Modulo Seguridad.exe.config
+c:\users\hector cardona\documents\visual studio 2013\Projects\Modulo Seguridad\Modulo Seguridad\bin\Debug\Modulo Seguridad.exe
+c:\users\hector cardona\documents\visual studio 2013\Projects\Modulo Seguridad\Modulo Seguridad\bin\Debug\Modulo Seguridad.pdb
+c:\users\hector cardona\documents\visual studio 2013\Projects\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo Seguridad.csprojResolveAssemblyReference.cache
+c:\users\hector cardona\documents\visual studio 2013\Projects\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo_Seguridad.Formularios.resources
+c:\users\hector cardona\documents\visual studio 2013\Projects\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo_Seguridad.Login.resources
+c:\users\hector cardona\documents\visual studio 2013\Projects\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo_Seguridad.Properties.Resources.resources
+c:\users\hector cardona\documents\visual studio 2013\Projects\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo Seguridad.csproj.GenerateResource.Cache
+c:\users\hector cardona\documents\visual studio 2013\Projects\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo Seguridad.exe
+c:\users\hector cardona\documents\visual studio 2013\Projects\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo Seguridad.pdb
+C:\Users\LuiisFer\Desktop\Modulo-Seguridad\Modulo Seguridad\Modulo Seguridad\bin\Debug\Modulo Seguridad.exe.config
+C:\Users\LuiisFer\Desktop\Modulo-Seguridad\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo Seguridad.exe
+C:\Users\LuiisFer\Desktop\Modulo-Seguridad\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo Seguridad.pdb
+C:\Users\LuiisFer\Desktop\Modulo-Seguridad\Modulo Seguridad\Modulo Seguridad\bin\Debug\Modulo Seguridad.exe
+C:\Users\LuiisFer\Desktop\Modulo-Seguridad\Modulo Seguridad\Modulo Seguridad\bin\Debug\Modulo Seguridad.pdb
+C:\Users\LuiisFer\Desktop\Modulo-Seguridad\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo Seguridad.csprojResolveAssemblyReference.cache
+C:\Users\LuiisFer\Desktop\Modulo-Seguridad\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo_Seguridad.Formularios.resources
+C:\Users\LuiisFer\Desktop\Modulo-Seguridad\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo_Seguridad.Login.resources
+C:\Users\LuiisFer\Desktop\Modulo-Seguridad\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo_Seguridad.Properties.Resources.resources
+C:\Users\LuiisFer\Desktop\Modulo-Seguridad\Modulo Seguridad\Modulo Seguridad\obj\Debug\Modulo Seguridad.csproj.GenerateResource.Cache

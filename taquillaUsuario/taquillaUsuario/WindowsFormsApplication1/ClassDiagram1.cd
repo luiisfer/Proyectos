@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApplication1.cartelera">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAQASAAYAERIA2TASADEBAgBgGCAQAkIAAIAAA=</HashCode>
+      <FileName>frmCartelera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.frmCiudad">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAAABAAAAGAAGACAAAEAAAAAAQAAAAEAAA=</HashCode>
+      <FileName>frmCiudad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.frmInformacion">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABRAAAAAACACIyEjIg2QAAACRBAIICAAQBCAAAAACQM=</HashCode>
+      <FileName>frmInformacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.frmreservacion">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEQFAICgBCgBCRAZIlakGlASQjAIIgwAgIAImDCIKGg=</HashCode>
+      <FileName>frmreservacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.frmSala3D">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <Members>
+      <Field Name="ass" Hidden="true" />
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button10" Hidden="true" />
+      <Field Name="button11" Hidden="true" />
+      <Field Name="button13" Hidden="true" />
+      <Field Name="button14" Hidden="true" />
+      <Field Name="button15" Hidden="true" />
+      <Field Name="button17" Hidden="true" />
+      <Field Name="button18" Hidden="true" />
+      <Field Name="button19" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Field Name="button20" Hidden="true" />
+      <Field Name="button21" Hidden="true" />
+      <Field Name="button22" Hidden="true" />
+      <Field Name="button23" Hidden="true" />
+      <Field Name="button25" Hidden="true" />
+      <Field Name="button26" Hidden="true" />
+      <Field Name="button27" Hidden="true" />
+      <Field Name="button28" Hidden="true" />
+      <Field Name="button29" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Field Name="button30" Hidden="true" />
+      <Field Name="button31" Hidden="true" />
+      <Field Name="button35" Hidden="true" />
+      <Field Name="button36" Hidden="true" />
+      <Field Name="button37" Hidden="true" />
+      <Field Name="button38" Hidden="true" />
+      <Field Name="button39" Hidden="true" />
+      <Field Name="button5" Hidden="true" />
+      <Field Name="button6" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>IDgAAAAGACACAAAHAACAwIECAMg7YMBhEEQAcjhwAAA=</HashCode>
+      <FileName>frmSala3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.frmSala4D">
+    <Position X="10" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IDgEAAAGACACAAAHAACAwIEDAMw74MDhEEQAcjhwAAA=</HashCode>
+      <FileName>frmSala4D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

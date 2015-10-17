@@ -1,0 +1,30 @@
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\bin\Debug\Seguridad.dll
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\bin\Debug\Seguridad.pdb
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\obj\Debug\Seguridad.Properties.Resources.resources
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\obj\Debug\Seguridad.ucLogin.resources
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\obj\Debug\Seguridad.csproj.GenerateResource.Cache
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\obj\Debug\Seguridad.dll
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\obj\Debug\Seguridad.pdb
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\obj\Debug\Seguridad.csprojResolveAssemblyReference.cache
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\obj\Debug\Seguridad.frmManejoRoles.resources
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\obj\Debug\Seguridad.frmAsignacionAplicacion.resources
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\obj\Debug\Seguridad.frmBitacora.resources
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\obj\Debug\Seguridad.frmCambioPassUser.resources
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\obj\Debug\Seguridad.frmErrores.resources
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\obj\Debug\Seguridad.frmModificacionUsuario.resources
+C:\Users\Hector Cardona\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\obj\Debug\Seguridad.frmRegistro.resources
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\bin\Debug\Seguridad.dll
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\bin\Debug\Seguridad.pdb
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\obj\Debug\Seguridad.csprojResolveAssemblyReference.cache
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\obj\Debug\Seguridad.frmAsignacionAplicacion.resources
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\obj\Debug\Seguridad.frmBitacora.resources
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\obj\Debug\Seguridad.frmCambioPassUser.resources
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\obj\Debug\Seguridad.frmErrores.resources
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\obj\Debug\Seguridad.frmManejoRoles.resources
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\obj\Debug\Seguridad.frmModificacionUsuario.resources
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\obj\Debug\Seguridad.frmRegistro.resources
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\obj\Debug\Seguridad.Properties.Resources.resources
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\obj\Debug\Seguridad.ucLogin.resources
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\obj\Debug\Seguridad.csproj.GenerateResource.Cache
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\obj\Debug\Seguridad.dll
+C:\Users\LuiisFer\Desktop\Seguridad\Seguridad\Seguridad\obj\Debug\Seguridad.pdb

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB643FAA-61E2-455B-9C64-B3D08A721A19}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Seguridad</RootNamespace>
+    <AssemblyName>Seguridad</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAsignacionAplicacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsignacionAplicacion.Designer.cs">
+      <DependentUpon>frmAsignacionAplicacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBitacora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBitacora.Designer.cs">
+      <DependentUpon>frmBitacora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCambioPassUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCambioPassUser.Designer.cs">
+      <DependentUpon>frmCambioPassUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmErrores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmErrores.Designer.cs">
+      <DependentUpon>frmErrores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManejoRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManejoRoles.Designer.cs">
+      <DependentUpon>frmManejoRoles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModificacionUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModificacionUsuario.Designer.cs">
+      <DependentUpon>frmModificacionUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistro.Designer.cs">
+      <DependentUpon>frmRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ucLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucLogin.Designer.cs">
+      <DependentUpon>ucLogin.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAsignacionAplicacion.resx">
+      <DependentUpon>frmAsignacionAplicacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBitacora.resx">
+      <DependentUpon>frmBitacora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCambioPassUser.resx">
+      <DependentUpon>frmCambioPassUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmErrores.resx">
+      <DependentUpon>frmErrores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManejoRoles.resx">
+      <DependentUpon>frmManejoRoles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModificacionUsuario.resx">
+      <DependentUpon>frmModificacionUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistro.resx">
+      <DependentUpon>frmRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucLogin.resx">
+      <DependentUpon>ucLogin.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10458014_1169466299737502_7053640794978873582_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loggin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asginar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asignar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asignar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asignar4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limpiar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
